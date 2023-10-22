@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\Aplicacionconsola\bin\Debug\net5.0\Aplicacionconsola.exe
+C:\Users\PC\source\repos\Aplicacionconsola\bin\Debug\net5.0\Aplicacionconsola.deps.json
+C:\Users\PC\source\repos\Aplicacionconsola\bin\Debug\net5.0\Aplicacionconsola.runtimeconfig.json
+C:\Users\PC\source\repos\Aplicacionconsola\bin\Debug\net5.0\Aplicacionconsola.runtimeconfig.dev.json
+C:\Users\PC\source\repos\Aplicacionconsola\bin\Debug\net5.0\Aplicacionconsola.dll
+C:\Users\PC\source\repos\Aplicacionconsola\bin\Debug\net5.0\ref\Aplicacionconsola.dll
+C:\Users\PC\source\repos\Aplicacionconsola\bin\Debug\net5.0\Aplicacionconsola.pdb
+C:\Users\PC\source\repos\Aplicacionconsola\obj\Debug\net5.0\Aplicacionconsola.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Aplicacionconsola\obj\Debug\net5.0\Aplicacionconsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Aplicacionconsola\obj\Debug\net5.0\Aplicacionconsola.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Aplicacionconsola\obj\Debug\net5.0\Aplicacionconsola.AssemblyInfo.cs
+C:\Users\PC\source\repos\Aplicacionconsola\obj\Debug\net5.0\Aplicacionconsola.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Aplicacionconsola\obj\Debug\net5.0\Aplicacionconsola.dll
+C:\Users\PC\source\repos\Aplicacionconsola\obj\Debug\net5.0\ref\Aplicacionconsola.dll
+C:\Users\PC\source\repos\Aplicacionconsola\obj\Debug\net5.0\Aplicacionconsola.pdb
+C:\Users\PC\source\repos\Aplicacionconsola\obj\Debug\net5.0\Aplicacionconsola.genruntimeconfig.cache
